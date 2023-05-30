@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03597431.css",
+    "main.js": "/static/js/main.3b97499a.js",
+    "static/media/plan.jpeg": "/static/media/plan.5f3cf7e87018bf677ebb.jpeg",
+    "static/media/work.jpeg": "/static/media/work.0ffc8bb33f329e0a911c.jpeg",
+    "static/media/create.jpeg": "/static/media/create.37f407fe7e29dbbbdd75.jpeg",
+    "static/media/play.avif": "/static/media/play.321ce030a7f3c62fb236.avif",
+    "static/media/discover.jpeg": "/static/media/discover.26dde2aa948a4eaaf75a.jpeg",
+    "static/media/asar-logo-lg-wt.png": "/static/media/asar-logo-lg-wt.546aa2219e71e0f9219b.png",
+    "index.html": "/index.html",
+    "main.03597431.css.map": "/static/css/main.03597431.css.map",
+    "main.3b97499a.js.map": "/static/js/main.3b97499a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03597431.css",
+    "static/js/main.3b97499a.js"
+  ]
+}
